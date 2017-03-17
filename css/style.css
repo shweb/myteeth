@@ -125,6 +125,7 @@ input[type=checkbox]:checked ~ #menu{
 	}
 	.footer{
 	    margin-left:35px !important;
+            padding:-10px;
 	}
 }
 
@@ -301,6 +302,11 @@ hr{
 .superbg {
 	margin: 0 auto;
 	width:100%;
+}
+
+
+section {
+padding:20px;
 }
 
 
